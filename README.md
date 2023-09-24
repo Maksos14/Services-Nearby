@@ -4,7 +4,7 @@ This application will help you quickly and conveniently find the right service o
 
 The "services nearby" project is a service that combines information about various services, such as:
 
--photographer's services
+-photographer's services 
 -Printing services
 -Repair workshop services
 -Car service services
